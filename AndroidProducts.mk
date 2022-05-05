@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_star2lte.mk
+    $(LOCAL_DIR)/aosp_star2lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_star2lte-eng \
-    lineage_star2lte-user \
-    lineage_star2lte-userdebug
+    aosp_star2lte-eng \
+    aosp_star2lte-user \
+    aosp_star2lte-userdebug
